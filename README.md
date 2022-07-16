@@ -1,2 +1,2 @@
 # distro-crawl
-ISO web crawler for my favorite distros.
+Web crawler for generating ISO files of my favorite distributions.
